@@ -1,0 +1,7 @@
+-r base.txt
+
+pytest
+black
+ruff
+mypy
+pre-commit
